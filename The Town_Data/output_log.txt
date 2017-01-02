@@ -1,0 +1,38 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.396 seconds
+Platform assembly: D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\TC\semester 7\tkigs\game jam 2\Monopoli\The Town_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.557256 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.721661 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 180.
+Total: 0.484082 ms (FindLiveObjects: 0.034638 ms CreateObjectMapping: 0.031217 ms MarkObjects: 0.376318 ms  DeleteObjects: 0.040625 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.020336 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 776.
+Total: 1.588235 ms (FindLiveObjects: 0.092369 ms CreateObjectMapping: 0.077829 ms MarkObjects: 1.401359 ms  DeleteObjects: 0.015394 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b2c -> priority: 1 
